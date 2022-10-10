@@ -1,0 +1,31 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+Logs/
+
+
+# =================== #
+# User-specific files #
+# =================== #
+*.suo
+*.user
+*.sln.docstates
+*.csproj
+
+
+# ===================================== #
+# Visual Studio generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj

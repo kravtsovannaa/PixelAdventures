@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fruits
+  - Trap
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Ground
+  - Player
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3016753513
+    locked: 0
+  - name: Terrain
+    uniqueID: 1415624121
+    locked: 0
+  - name: Player
+    uniqueID: 1117723883
+    locked: 0
+  - name: Foreground
+    uniqueID: 2906638347
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
